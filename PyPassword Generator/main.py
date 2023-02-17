@@ -27,3 +27,4 @@ for char in password_list:
   password += char
 
 print(f"Your passowrd is: {password}")
+
